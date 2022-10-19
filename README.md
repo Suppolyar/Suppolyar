@@ -1,15 +1,16 @@
-### Hi there, my name is Ilya 👋
-## i'm Frontend-developer
+### Hi there, my name is **Ilya** 👋
+## i'm **Frontend-developer**
 
-**Suppolyar/Suppolyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#👨‍💻 In my projects I use
++ HTML
++ CSS | SASS/LESS/SCSS | TailwindCSS/WindiCSS | BEM
++ Javascript | Typescript
++ [VueJS](https://vuejs.org/) | NuxtJS
++ Git (GitHub | Bitbucket | GitLab)
 
-Here are some ideas to get you started:
+#👨‍🏭 To prototype
++ Figma
++ Framer
++ Adobe XD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# To contact with me
