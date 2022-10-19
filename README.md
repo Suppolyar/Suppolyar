@@ -13,7 +13,7 @@
 + Framer
 + Adobe XD
 
-### 🛸To contact with me:
+### 🛸 To contact with me:
 My telegram: *Suppolyar*  
 My website: [webpolyar.ru](http://webpolyar.ru/)
 
