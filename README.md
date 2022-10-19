@@ -8,7 +8,7 @@
 + [VueJS](https://vuejs.org/) | NuxtJS
 + Git (GitHub | Bitbucket | GitLab)
 
-### 👨‍🏭 To prototype:
+### 🎨 To prototype:
 + Figma
 + Framer
 + Adobe XD
