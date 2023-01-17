@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ilya Zakharov</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">Hello World 👋, I'm Ilya Zakharov</h1>
+<h3 align="center">i'm Frontend Developer</h3>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+</div>
 
 Glad to see you here! <br> Make the world a better place, help others, take care of animals and nature 🌿
 
