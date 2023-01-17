@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [webpolyar.ru](webpolyar.ru)
 
-- 📫 How to reach me **vkhardy@inbox.ru**
+- 📫 How to reach me **vkhardy@inbox.ru** or in Telegram: [**Suppolyar**]([www](https://t.me/suppolyar))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
