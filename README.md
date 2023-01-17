@@ -175,4 +175,4 @@ Glad to see you here! <br> Make the world a better place, help others, take care
   </p>
   
   ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suppolyar&theme=vue&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suppolyar&theme=vue)](https://git.io/streak-stats)
