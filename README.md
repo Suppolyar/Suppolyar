@@ -174,5 +174,4 @@ Glad to see you here! <br> Make the world a better place, help others, take care
     > </a>
   </p>
   
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?Suppolyar&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suppolyar&theme=dark&background=000000)](https://git.io/streak-stats)
