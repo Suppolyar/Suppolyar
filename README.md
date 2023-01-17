@@ -1,7 +1,7 @@
 # Hello World 👋, I'm Ilya Zakharov
 ### i'm Frontend Developer
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
 
