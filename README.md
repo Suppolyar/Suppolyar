@@ -76,7 +76,6 @@
       width="40"
       height="40"
     > </a>
-
     <a
       href="https://vuetifyjs.com/en/"
       target="_blank"
