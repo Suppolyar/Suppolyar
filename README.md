@@ -1,5 +1,5 @@
-<h1 align="center">Hello World 👋, I'm Ilya Zakharov</h1>
-<h3 align="center">i'm Frontend Developer</h3>
+#Hello World 👋, I'm Ilya Zakharov
+###i'm Frontend Developer
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
@@ -174,4 +174,5 @@ Glad to see you here! <br> Make the world a better place, help others, take care
     > </a>
   </p>
   
+  ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suppolyar&theme=dark&background=000000)](https://git.io/streak-stats)
