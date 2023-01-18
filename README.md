@@ -9,10 +9,10 @@ Glad to see you here! <br> Make the world a better place, help others, take care
 
 - 🔭 I’m currently working on ["Sanatorium"](https://sanatorium-is.ru/)
 - 👨‍💻 All of my projects are available at [webpolyar.ru](webpolyar.ru)
-- 📫 How to reach me **vkhardy@inbox.ru** or Telegram: [**Suppolyar**](https://t.me/suppolyar)
+- 📫 Connect with me: **vkhardy@inbox.ru** or Telegram: [**Suppolyar**](https://t.me/suppolyar)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social network:</h3>
 <p align="left">
 <a href="https://twitter.com/suppolyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suppolyar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suppolyar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suppolyar/" height="30" width="40" /></a>
