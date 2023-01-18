@@ -176,4 +176,4 @@ Glad to see you here! <br> Make the world a better place, help others, take care
   
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suppolyar&theme=vue)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-suppolyar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suppolyar)](https://github.com/anuraghazra/github-readme-stats)
