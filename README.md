@@ -9,7 +9,7 @@ Glad to see you here! <br> Make the world a better place, help others, take care
 
 - 🔭 I’m currently working on ["Sanatorium"](https://sanatorium-is.ru/)
 - 👨‍💻 All of my projects are available at [webpolyar.ru](webpolyar.ru)
-- 📫 How to reach me **vkhardy@inbox.ru** or Telegram: [**Suppolyar**]([www](https://t.me/suppolyar))
+- 📫 How to reach me **vkhardy@inbox.ru** or Telegram: [**Suppolyar**](https://t.me/suppolyar)
 
 
 <h3 align="left">Connect with me:</h3>
