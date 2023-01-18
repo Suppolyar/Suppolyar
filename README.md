@@ -1,5 +1,5 @@
 # Hello World 👋, my name is Ilya Zakharov
-### and i'm Frontend Developer
+### And i'm Frontend Developer
 
 <div id="header">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
