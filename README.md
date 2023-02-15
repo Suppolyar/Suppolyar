@@ -1,16 +1,11 @@
-# Hello World 👋, my name is Ilya Zakharov
-### And i'm Frontend Developer
+# Hello World 👋
+### i'm Frontend Developer
 
 <div id="header">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
 
 Glad to see you here! <br> Make the world a better place, help others, take care of animals and nature 🌿
-
-- 🔭 I’m currently working on ["Sanatorium"](https://sanatorium-is.ru/)
-- 👨‍💻 All of my projects are available at [webpolyar.ru](webpolyar.ru)
-- 📫 Connect with me: **vkhardy@inbox.ru** or Telegram: [**Suppolyar**](https://t.me/suppolyar)
-
 
 <h3 align="left">My social network:</h3>
 <p align="left">
