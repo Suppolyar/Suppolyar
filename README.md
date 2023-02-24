@@ -28,4 +28,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suppolyar&theme=vue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suppolyar&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ## 🎵 Spotify:  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314km445vrkp44relpr7gzyt3gaq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314km445vrkp44relpr7gzyt3gaq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=314km445vrkp44relpr7gzyt3gaq&redirect=true)
