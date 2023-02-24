@@ -2,7 +2,7 @@
 🔭 I’m currently working on [Sanatorium](https://sanatorium-is.ru/)  <br>🌱 I’m currently learning web application architectures, algorithms and data structures
 
 
-## 🌐 Socials:
+## 🌎 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/suppolyar#1964) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suppolyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suppolyar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/suppolyar) 
 
 ## 💻 Tech Stack:
@@ -24,8 +24,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=suppolyar&theme=vue&hide_border=true)<br/>
+## ⚙️ GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=suppolyar&theme=vue&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suppolyar&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ## 🎵 Spotify:  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314km445vrkp44relpr7gzyt3gaq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=314km445vrkp44relpr7gzyt3gaq&redirect=true)
