@@ -28,4 +28,4 @@
 
 ## ⚙️ GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suppolyar&theme=vue&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suppolyar&theme=vue&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suppolyar&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
