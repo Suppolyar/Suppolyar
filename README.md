@@ -5,7 +5,11 @@
 
 
 ## 🌎 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/suppolyar#1964) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suppolyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suppolyar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/suppolyar) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/suppolyar#1964)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suppolyar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suppolyar)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/suppolyar) 
+[![]]()(https://leetcode.com/Suppolyar/)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -26,6 +30,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
 
-## ⚙️ GitHub Stats:
+## ⚙️ Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suppolyar&theme=vue&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suppolyar&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br>
+[![LeetCode user suppolyar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsuppolyar&logo=leetcode&logoColor=yellow)](https://leetcode.com/suppolyar/)
