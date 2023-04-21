@@ -1,6 +1,4 @@
 # ✌️ Hello, World
-🔭 I’m currently working on [Sanatorium](https://sanatorium-is.ru/)  
-🌱 I’m currently learning web application architectures, algorithms and data structures  
 🚞 I travel the world, I have already visited: 🇲🇪🇹🇭🇰🇿🇹🇷🇦🇲🇬🇪
 
 
