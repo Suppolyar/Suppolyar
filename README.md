@@ -1,12 +1,8 @@
 # ✌️ Hello, World
-🚞 I travel the world, I have already visited: 🇲🇪🇹🇭🇰🇿🇹🇷🇦🇲🇬🇪
-
-
-## 🌎 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/suppolyar#1964)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suppolyar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suppolyar)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/suppolyar) 
+
+> "Coding and travel have similar features: every time you study a new technology or country, you broaden your horizons and see the world from a new perspective." 🇲🇪🇹🇭🇰🇿🇹🇷🇦🇲🇬🇪
+
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
