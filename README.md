@@ -1,6 +1,6 @@
 # Hello, World!
 ## 👋 About me
-- Web developer | Frontend Developer
+- Web Developer | Frontend Developer
 - Traveller \(📍 I am currently in Georgia\)
 - Bicyclist
 - Volunteer
