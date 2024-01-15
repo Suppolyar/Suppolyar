@@ -10,7 +10,7 @@
 - JavaScript | TypeScript
 - Vue.js | Nuxt.js
 - React Native
-- Node.js
+- Node.js | Express.js | Nest.js
 - Vite | Webpack | Rollup
 - Eslint | Prettier
 - Git
