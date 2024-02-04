@@ -5,10 +5,10 @@
 
 - 🔭 **I’m currently working on projects** related to medical organizations, sanatoriums, accommodation and booking systems.
 
-- 🌱 **I’m currently learning** 
-  - Backend: Node.js | Nest.js,
-  - Frontend: Nuxt.js(3v.) | React Native ,
-  - 3D and animations: Three.js | WebGL | GSAP | Blender,**
+- 🌱 **I’m currently learning:** 
+  - Backend: Node.js | Nest.js
+  - Frontend: Nuxt.js(3v.) | React Native
+  - 3D and animations: Three.js | WebGL | GSAP | Blender
 
 - 🤝 **I am available to offer my assistance in projects** that utilize Vue.js, Nuxt.js, as well as CSS frameworks such as Tailwind CSS. If your project is in need of an experienced developer with these skills, I would be delighted to contribute and make a positive impact.
 
