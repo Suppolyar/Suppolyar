@@ -1,14 +1,47 @@
-📫 How to reach me **[vkhardy@inbox.ru](mailto:vkhardy@inbox.ru) or [tg: Suppolyar](https://t.me/suppolyar)**
+<h1 align="center">Hi 👋, I'm Ilia Zakharov</h1>
+<h3 align="center">Senior Frontend Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suppolyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suppolyar" height="30" width="40" /></a>
-<a href="https://instagram.com/suppolyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suppolyar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suppolyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suppolyar" height="30" width="40" /></a>
-<a href="https://discord.gg/suppolyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="suppolyar" height="30" width="40" /></a>
+<p align="center">
+  Passionate about building scalable frontend applications, clean architecture, and great user experiences.
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suppolyar&" alt="suppolyar" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suppolyar&show_icons=true&locale=en&layout=compact" alt="suppolyar" />
-</div>
+---
+
+## 🚀 About Me
+
+- 💼 Senior Frontend Developer with **5+ years of experience**
+- ⚡ Main stack: **Vue.js, React, TypeScript, JavaScript, Node.js**
+- 🏗️ Interested in **Feature-Sliced Design, Microfrontends, Clean Architecture**
+- 🌍 Open to **remote opportunities / relocation**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suppolyar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suppolyar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suppolyar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:vkhardy@inbox.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/suppolyar">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/suppolyar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/suppolyar">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
