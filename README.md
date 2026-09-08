@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ilia Zakharov</h1>
-<h3 align="center">Senior Frontend Developer</h3>
+<h1>Hi 👋, I'm Ilia Zakharov</h1>
+<h3>Senior Frontend Developer</h3>
 
-<p align="center">
+<p>
   Passionate about building scalable frontend applications, clean architecture, and great user experiences.
 </p>
 
@@ -24,7 +24,7 @@ https://t.me/deps_radar
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=suppolyar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suppolyar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
@@ -35,7 +35,7 @@ https://t.me/deps_radar
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
   <a href="mailto:vkhardy@inbox.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
