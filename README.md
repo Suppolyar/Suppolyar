@@ -14,6 +14,12 @@
 - 🏗️ Interested in **Feature-Sliced Design, Microfrontends, Clean Architecture**
 - 🌍 Open to **remote opportunities / relocation**
 
+
+---
+
+Frontend dependencies radar here:   
+https://t.me/deps_radar
+
 ---
 
 ## 📈 GitHub Stats
@@ -27,12 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suppolyar&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-Frontend dependencies radar here:   
-https://t.me/deps_radar
-
----
 ## 🌐 Connect With Me
 
 <p align="center">
