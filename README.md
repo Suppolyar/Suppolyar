@@ -29,6 +29,10 @@
 
 ---
 
+Frontend dependencies radar here:   
+https://t.me/deps_radar
+
+---
 ## 🌐 Connect With Me
 
 <p align="center">
