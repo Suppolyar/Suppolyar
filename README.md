@@ -17,7 +17,7 @@
 
 ---
 
-Frontend dependencies radar here:   
+## 👀 Frontend dependencies radar here:   
 https://t.me/deps_radar
 
 ---
